@@ -21,12 +21,6 @@ A responsive food delivery website built using **HTML5** and **CSS3**. It featur
 - Google Fonts
 - Image assets
 
-## 📁 Project Structure
-
-📁 img → All image files (e.g. food items, logos, backgrounds)
-📄 index.html → Main HTML file
-🎨 style.css → Styling for the website
-
 ## ▶️ How to Run
 
 1. Clone this repo:
